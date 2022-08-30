@@ -1,9 +1,39 @@
-# A Brief Introduction to Path Signatures
-A Jupyter notebook which provides a brief introduction to path signatures for machine learning practitioners.
+<div align="center">
+    <h1>A Brief Introduction to Path Signatures for ML practitioners</h1>
+</div>
+ 
+<p align="center">
+    <a href="https://github.com/kasra-hosseini/path_signatures_introduction/blob/master/LICENSE">
+        <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
+    </a>
+    <a href="https://mybinder.org/v2/gh/kasra-hosseini/path_signatures_introduction/HEAD">
+        <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
+    </a>
+    <br/>
+</p>
 
-# Requirements
-The notebook is implemented in Python 3.7. The list of Python package dependencies is defined in [requirements.txt](requirements.txt). A typical process for installing the package dependencies involves creating a new Python virtual environment and then inside the environment executing
+# Installation
 
-    pip install -r requirements.txt
+1. Create a new environment:
 
-As an alternative to running the notebook locally, it is possible to use Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pafoster/path_signatures_introduction/master)
+```bash
+conda create -n py38esig python=3.8
+```
+
+2. Activate the environment:
+
+```bash
+conda activate py38esig
+```
+
+3. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Open notebook by:
+
+```bash
+jupyter notebook
+```
