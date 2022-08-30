@@ -3,13 +3,12 @@
 </div>
  
 <p align="center">
-    <a href="https://github.com/kasra-hosseini/path_signatures_introduction/blob/master/LICENSE">
-        <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
-    </a>
     <a href="https://mybinder.org/v2/gh/kasra-hosseini/path_signatures_introduction/HEAD">
         <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
     </a>
-    <br/>
+    <a href="https://github.com/kasra-hosseini/path_signatures_introduction/blob/master/LICENSE">
+        <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
+    </a>
 </p>
 
 # Installation
